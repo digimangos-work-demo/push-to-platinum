@@ -7,35 +7,33 @@ Welcome to the "Push to Platinum" repository! This project serves as a model for
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Best Practices](#best-practices)
-  - [Dotnet Build, Publish, and Release Workflow](#dotnet-build-publish-and-release-workflow)
-  - [Issue and Pull Request Templates](#issue-and-pull-request-templates)
-  - [Codeowners](#codeowners)
-  - [Contributing Guidelines](#contributing-guidelines)
-  - [License](#license)
+- [Useful Links from the session](#useful-links-from-the-session)
 
 ## Introduction
 
 "Push to Platinum" provides practical examples and guidelines to help you implement GitHub best practices. Elevate your repository by incorporating these examples, making it a testament to coding maturity and collaborative excellence.
 
-## Best Practices
+## Useful Links from the session
 
-### Dotnet Build, Publish, and Release Workflow
+Tier 1:
+- [Licensing a repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+- [About readmes](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- [Classifying your repository with topics (a.k.a. tagging)](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics)
+- [Protected branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/managing-a-branch-protection-rule)
 
-Implement a streamlined workflow for building, publishing, and releasing your .NET application. This example showcases an efficient process to ensure your code is built, tested, and deployed seamlessly.
+Tier 2:
+- [Setting Guidelines for Repository Contributors](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+- [Codeowners (a.k.a Maintainers)](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
+- [Creating a default community health file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
 
-### Issue and Pull Request Templates
+Tier 3:
+- [Manually creating a single issue template for your repository](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/manually-creating-a-single-issue-template-for-your-repository)
+- [Syntax for issue forms](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms)
+- [Creating a pull request template for your repository](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
+- [Packages](https://github.com/features/packages)
 
-Enhance collaboration and communication by including templates for issues and pull requests. These templates guide contributors in providing essential information and help maintain a standardized structure for discussions and code reviews.
+Tier 4:
+- [About wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
+- [About GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
+- [Managing releases in a repository](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)
 
-### Codeowners
-
-Specify code owners to ensure that the right individuals or teams review and approve changes in specific areas of the codebase. This promotes accountability and expertise in maintaining different parts of the project.
-
-### Contributing Guidelines
-
-Facilitate contributions to your project by providing clear guidelines for contributors. This example outlines the expectations for submitting code, reporting issues, and collaborating effectively within the project.
-
-### License
-
-Protect your work and clearly define how others can use your code by including a license file. Choose an appropriate open-source license that aligns with your project goals and encourages collaboration while maintaining legal clarity.
